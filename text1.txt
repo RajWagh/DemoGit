@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is AA1C-0EEF
-
- Directory of C:\Users\Raj Waghmare\Desktop\MyProject
-
-30/10/2018  01:47 PM    <DIR>          .
-30/10/2018  01:47 PM    <DIR>          ..
-30/10/2018  01:47 PM                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  52,349,009,920 bytes free
+WelCome to Git 
